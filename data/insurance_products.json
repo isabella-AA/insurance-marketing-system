@@ -1,0 +1,72 @@
+[
+  {
+    "product_name": "康爱保",
+    "category": "重疾险",
+    "age_range": "18-60",
+    "coverage": "涵盖100种重大疾病，确诊即赔付",
+    "features": "保费适中，保障全面，适合家庭支柱人群"
+  },
+  {
+    "product_name": "健康无忧",
+    "category": "重疾险",
+    "age_range": "30-55",
+    "coverage": "重大疾病和轻症保障，含多次赔付",
+    "features": "适合中年人群，保障全面，赔付灵活"
+  },
+  {
+    "product_name": "平安综合意外险",
+    "category": "意外险",
+    "age_range": "不限",
+    "coverage": "意外身故、伤残、医疗费用报销",
+    "features": "保障范围广，适合日常生活和工作中的意外风险"
+  },
+  {
+    "product_name": "安行保",
+    "category": "意外险",
+    "age_range": "18-65",
+    "coverage": "交通意外身故、伤残保障",
+    "features": "专注交通意外，适合经常出行的人群"
+  },
+  {
+    "product_name": "好医保",
+    "category": "医疗险",
+    "age_range": "0-60",
+    "coverage": "住院医疗费用报销，含特药保障",
+    "features": "保费低，保障高，适合大众人群"
+  },
+  {
+    "product_name": "尊享e生",
+    "category": "医疗险",
+    "age_range": "出生满30天-60岁",
+    "coverage": "住院医疗、门诊手术、特定疾病保障",
+    "features": "保障全面，续保条件好，适合家庭成员投保"
+  },
+  {
+    "product_name": "定海柱1号",
+    "category": "寿险",
+    "age_range": "18-60",
+    "coverage": "身故或全残保障",
+    "features": "保额高，保费低，适合家庭经济支柱"
+  },
+  {
+    "product_name": "孝亲保",
+    "category": "寿险",
+    "age_range": "50-75",
+    "coverage": "身故保障，含身故返还保费",
+    "features": "专为老年人设计，保障贴心"
+  },
+  {
+    "product_name": "福禄双喜",
+    "category": "年金险",
+    "age_range": "0-60",
+    "coverage": "年金领取，身故保障",
+    "features": "适合养老金规划，收益稳定"
+  },
+  {
+    "product_name": "金生有约",
+    "category": "年金险",
+    "age_range": "18-55",
+    "coverage": "年金领取，含身故保障",
+    "features": "适合中青年人群，规划未来养老金"
+  }
+]
